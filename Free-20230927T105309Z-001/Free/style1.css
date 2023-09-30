@@ -1,0 +1,51 @@
+body {
+    background-image: url(b.jpg);
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    text-align: center;
+}
+div{
+    background-image: linear-gradient(to bottom, rgb(51, 48, 255), rgb(0, 0, 0));
+    border: solid;
+    width: 300px;
+    margin: 0 auto;
+    border-width: 1px;
+    border-radius: 15%;
+ 
+}
+input{
+    width: 200px;
+    height: 20px;
+    border-radius: 3px;
+    text-align:center;
+    font-size: large;
+    background-color: rgb(64, 32, 21);
+    border-radius: 25px;
+    
+    
+
+}
+button{
+    width: 90px;
+    height: 35px; 
+    border-radius: 15px;
+    font-size: medium;
+    background-color: rgb(158, 158, 159);
+    
+}
+h1{
+    color: aliceblue;
+}
+h2{
+    color: aliceblue;
+}
+.home{
+    position: relative;
+    width: 400px;
+    height: 440px;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, .5);
+    border-radius: 20px;
+    backdrop-filter: blur(20px);  
+}

@@ -1,0 +1,68 @@
+body {
+    background-image: url(a.jpg);
+    background-size: cover;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    text-align: center;
+}
+div{
+    background-image: linear-gradient(to bottom, rgb(255, 210, 143), rgb(0, 0, 0));
+    border: 45px;
+    width: 300px;
+    margin: 0 auto;
+    border-width: 1px;
+    border-radius: 30px;
+    opacity: 85%;
+
+ 
+}
+input{
+    width: 200px;
+    height: 20px;
+    border-radius: 3px;
+    text-align:center;
+    font-size: large;
+    background-color: rgb(255, 255, 255);
+    border-radius: 25px;
+    
+    
+
+}
+button{
+    border: transparent;
+    width: 90px;
+    height: 35px; 
+    border-radius: 15px;
+    font-size: medium;
+    background-color: rgba(255, 255, 255, 0.5);
+    
+}
+h1{
+color: aliceblue;
+}
+.login{
+    position: relative;
+    width: 400px;
+    height: 440px;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, .5);
+    border-radius: 20px;
+    backdrop-filter: blur(20px);
+}
+.register{
+    position: relative;
+    width: 400px;
+    height: 440px;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, .5);
+    border-radius: 20px;
+    backdrop-filter: blur(20px);
+}
+.login-register{
+    background: transparent;
+    font-size: 14px;
+}
+.login-login{
+    background: transparent;
+    font-size: 14px;
+}
